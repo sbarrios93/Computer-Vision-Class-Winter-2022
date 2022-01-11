@@ -1,0 +1,11 @@
+name: uchicago-cv
+channels:
+  - conda-forge
+dependencies:
+  - imageio
+  - opencv
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+prefix: /Users/seba/miniforge3/envs/uchicago-cv
